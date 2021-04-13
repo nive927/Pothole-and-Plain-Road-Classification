@@ -21,7 +21,6 @@ We recommend having a **Linux or macOS development environment** for convenience
 - matplotlib
 - numpy
 - scikit-learn
-
 <br>Run the following commands to install all the dependencies.<br>
 ```bash
 sudo apt update
