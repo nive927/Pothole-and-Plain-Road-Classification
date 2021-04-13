@@ -23,13 +23,19 @@ We recommend having a **Linux or macOS development environment** for convenience
 - scikit-learn
 - joblib
 
-<br>Run the following commands to install all the dependencies:
+## Instructions
+- [ ] Link to the dataset hosted as a drive link
+- [ ] Modifications to the code to run on another system (like changes to the basedir variable)
+- [ ] Running on jupyter
+1. Download or clone this repository locally
+2. Run the following commands to install all the dependencies:
 ```bash
 sudo apt update
 pip3 install --upgrade pip
 pip3 install -r requirements.txt
 ```
-## Instructions
-- [ ] Link to the dataset hosted as a drive link
-- [ ] Modifications to the code to run on another system (like changes to the basedir variable)
-- [ ] Running on jupyter
+3. Download the dataset from **insert drive link here** into the project directory
+4. Launch jupyter notebook from the project directory
+5. Open the [source code file](Code/pothole-detection-transfer-learning-CNN.ipynb) titled pothole-detection-transfer-learning-CNN.ipynb
+6. Change the basedir variable to the filepath of the dataset folder
+7. Restart kernel & run all cells if you want to recompile (NOTE: Tranining takes nearly 4 hrs)
