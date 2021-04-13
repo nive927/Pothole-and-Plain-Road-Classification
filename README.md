@@ -12,7 +12,7 @@ Pre-trained weights from **VGG16**
 
 ## Installation Requirements
 ### Environment
-We recommend having a **Linux or macOS development environment** for convenience, although the code runs on Windows 10. <br>We recommend using Anaconda to manage your packages. <br>Install **Python 3 (version >= 3.7.3 recommended), along with pip**.
+We recommend having a **Linux or macOS development environment** for convenience, although the code runs on Windows 10. <br>We recommend using **Anaconda to manage your packages**. <br>Install **Python 3 (version >= 3.7.3 recommended), along with pip**.
 
 ### Dependencies
 - [ ] Include frameworks, libraries, language, etc
