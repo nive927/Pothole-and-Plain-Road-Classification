@@ -22,7 +22,7 @@ We recommend having a **Linux or macOS development environment** for convenience
 - numpy
 - scikit-learn
 
-<br>Run the following commands to install all the dependencies.<br>
+<br>Run the following commands to install all the dependencies:
 ```bash
 sudo apt update
 pip3 install --upgrade pip
