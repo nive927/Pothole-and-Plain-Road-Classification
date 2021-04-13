@@ -10,11 +10,12 @@ Pre-trained weights from **VGG16**
   - Global Average Pooling
   - Linear Support Vector Machine
 
-## Dependencies
+## Installation Requirements
 ### Environment
 We recommend having a Linux or macOS development environment for convenience although, it would run in Windows. We recommend using Anaconda to manage your packages.
 Install Python 3 (version >= 3.7.3 recommended), along with pip.
 
+### Dependencies
 - [ ] Include frameworks, libraries, language, etc
 - [ ] Include version
 
