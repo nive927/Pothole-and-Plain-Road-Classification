@@ -4,3 +4,4 @@ Keras
 matplotlib
 numpy
 scikit-learn
+joblib
