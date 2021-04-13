@@ -11,6 +11,10 @@ Pre-trained weights from **VGG16**
   - Linear Support Vector Machine
 
 ## Dependencies
+### Environment
+We recommend having a Linux or macOS development environment for convenience although, it would run in Windows. We recommend using Anaconda to manage your packages.
+Install Python 3 (version >= 3.7.3 recommended), along with pip.
+
 - [ ] Include frameworks, libraries, language, etc
 - [ ] Include version
 
