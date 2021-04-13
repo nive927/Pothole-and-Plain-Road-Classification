@@ -12,12 +12,22 @@ Pre-trained weights from **VGG16**
 
 ## Installation Requirements
 ### Environment
-We recommend having a **Linux or macOS development environment** for convenience, although the code runs on Windows 10.<br>We recommend using **Anaconda to manage your packages**.<br>Install **Python 3 (version >= 3.7.3 recommended), along with pip**.<br>Using **Jupyter Notebook** is recommended as the code has been tested in that environment and debugging help can be obtained easily.
+We recommend having a **Linux or macOS development environment** for convenience, although the code runs on Windows 10.<br>We recommend using **Anaconda to manage your packages**.<br>Install **Python 3 (version >= 3.7.3 recommended), along with pip**.<br>We also recommend running the code on **Jupyter Notebook**.
 
 ### Dependencies
-- [ ] Include frameworks, libraries, language, etc
-- [ ] Include version
+- shutil
+- tensorflow
+- Keras
+- matplotlib
+- numpy
+- scikit-learn
 
+<br>Run the following commands to install all the dependencies.<br>
+```bash
+sudo apt update
+pip3 install --upgrade pip
+pip3 install -r requirements.txt
+```
 ## Instructions
 - [ ] Step-by-step guide to setup the environment
 - [ ] Link to the dataset hosted as a drive link
