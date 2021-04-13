@@ -21,6 +21,7 @@ We recommend having a **Linux or macOS development environment** for convenience
 - matplotlib
 - numpy
 - scikit-learn
+- joblib
 
 <br>Run the following commands to install all the dependencies:
 ```bash
