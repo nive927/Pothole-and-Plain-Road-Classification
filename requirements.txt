@@ -1,0 +1,6 @@
+pytest-shutil
+tensorflow
+Keras
+matplotlib
+numpy
+scikit-learn
