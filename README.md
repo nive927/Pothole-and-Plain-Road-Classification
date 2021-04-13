@@ -24,9 +24,6 @@ We recommend having a **Linux or macOS development environment** for convenience
 - joblib
 
 ## Instructions
-- [ ] Link to the dataset hosted as a drive link
-- [ ] Modifications to the code to run on another system (like changes to the basedir variable)
-- [ ] Running on jupyter
 1. Download or clone this repository locally
 2. Run the following commands to install all the dependencies:
 ```bash
