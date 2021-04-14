@@ -26,6 +26,7 @@ We recommend having a **Linux or macOS development environment** for convenience
 ## Instructions
 1. Download or clone this repository locally
 2. Run the following commands to install all the dependencies:
+
 ```bash
 sudo apt update
 pip3 install --upgrade pip
