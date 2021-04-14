@@ -36,4 +36,3 @@ pip3 install -r requirements.txt
 4. Launch jupyter notebook from the project directory
 5. Open the [source code file](Code/pothole-detection-transfer-learning-CNN.ipynb) titled pothole-detection-transfer-learning-CNN.ipynb
 6. Change the basedir variable to the filepath of the dataset folder
-7. Restart kernel & run all cells if you want to recompile (NOTE: Tranining takes nearly 4 hrs)
