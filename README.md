@@ -32,7 +32,7 @@ sudo apt update
 pip3 install --upgrade pip
 pip3 install -r requirements.txt
 ```
-3. Download the dataset from **insert drive link here** into the project directory
+3. Download the dataset from **insert drive link here** into the project directory and unzip the folder
 4. Launch jupyter notebook from the project directory
 5. Open the [source code file](Code/pothole-detection-transfer-learning-CNN.ipynb) titled pothole-detection-transfer-learning-CNN.ipynb
-6. Change the basedir variable to the filepath of the dataset folder
+6. Change the **basedir** variable to the filepath of the dataset folder
