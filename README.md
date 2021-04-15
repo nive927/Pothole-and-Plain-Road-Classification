@@ -1,5 +1,5 @@
-# Pot Hole Detection using Transfer Learning and CNN
-Using deep learning and transfer learning techniques to solve the binary image classification problem of pothole detection by adopting an accurate model for savings in training time and computational efficiency.
+# Pot Hole Classification using Transfer Learning and CNN
+Using deep learning and transfer learning techniques to solve the binary image classification problem of differentiating pothole and plain roads by adopting an accurate model for savings in training time and computational efficiency.
 
 ## CNN Transfer Learning
 ### Convolutional Base
@@ -36,3 +36,5 @@ pip3 install -r requirements.txt
 4. Launch jupyter notebook from the project directory
 5. Open the [source code file](Code/pothole-detection-transfer-learning-CNN.ipynb) titled pothole-detection-transfer-learning-CNN.ipynb
 6. Change the **basedir** variable to the filepath of the dataset folder
+7. Instead of training again, you can download the pre-trained and saved models from [here](https://drive.google.com/file/d/1RXz0OiakR4ap0he5lDX1tE466wnE5WRw/view?usp=sharing) and unzip the folder
+8. Uncomment the load model code cells and comment the training cells
