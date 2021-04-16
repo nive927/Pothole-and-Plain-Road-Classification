@@ -10,7 +10,7 @@ Pre-trained weights from **VGG16**
   - Global Average Pooling
   - Linear Support Vector Machine
 
-Consult either the [PPT](./Project-PPT.pdf) or [Report](./Report.pdf) for theory.
+Consult either the [PPT](./Project-PPT.pdf) or [Report](./Project-Report.pdf) for theory.
 
 ## Installation Requirements
 ### Environment
